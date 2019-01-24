@@ -1,5 +1,5 @@
 #############################################################################################
-# Course: MCDA - Multicriteria Decision Aids
+# Course: MCDA - Multicriteria Decision Aid
 
 * Prof. Valdecy Pereira, D.Sc.
 * UFF - Universidade Federal Fluminense (Brazil)
