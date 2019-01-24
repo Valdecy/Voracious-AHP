@@ -10,7 +10,8 @@
 
 * AHP - Analytic Hierarchy Process: https://www.researchgate.net/publication/330599469_AHP_-_Analytic_Hierarchy_Process
 
-# Voracious-AHP
-This software remove or reduce the inconsistency from an AHP Matrix. Dowload the .exe version from: https://sourceforge.net/projects/voracious-ahp/files/
+# Software (Free and Open Source)
+
+* Voracious-AHP - This software remove or reduce the inconsistency from an AHP Matrix. Dowload the .exe version from: https://sourceforge.net/projects/voracious-ahp/files/
 
 
