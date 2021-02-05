@@ -1,5 +1,3 @@
-#######################################################################################
-
 # Lessons (Slides in English) 
 
 AHP - Analytic Hierarchy Process: https://www.researchgate.net/publication/330599469_AHP_-_Analytic_Hierarchy_Process
