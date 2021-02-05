@@ -8,11 +8,11 @@
 
 # Lessons (Slides in English) 
 
-* AHP - Analytic Hierarchy Process: https://www.researchgate.net/publication/330599469_AHP_-_Analytic_Hierarchy_Process
+AHP - Analytic Hierarchy Process: https://www.researchgate.net/publication/330599469_AHP_-_Analytic_Hierarchy_Process
 
 # Software (Free and Open Source)
 
-* Voracious-AHP - This software remove or reduce the inconsistency from an AHP Matrix. Dowload the .exe version from: https://sourceforge.net/projects/voracious-ahp/files/
+Voracious-AHP - This software remove or reduce the inconsistency from an AHP Matrix. Dowload the .exe version from: https://sourceforge.net/projects/voracious-ahp/files/
 
 # Other MCDA Methods
 
